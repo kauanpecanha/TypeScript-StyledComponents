@@ -103,3 +103,12 @@ export const Botao6 = styled(Botao)`
         background-color: #17181c;
     }
 `;
+
+export const Testing = styled.h1`
+    background-color: dodgerblue;
+    width: 100%;
+    height: 300px;
+    margin: 0;
+    padding: 0;
+    /* nota: o styled components pode estilizar divs!!! */
+`;
